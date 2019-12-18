@@ -1,6 +1,2 @@
-1991年，Linus创建了开源的Linux，从此，Linux系统不断发展，已经成为最大的服务器系统软件了。
-2002年以前，世界各地的志愿者把源代码文件通过diff的方式发给Linus，然后由Linus本人通过手工方式合并代码。
-2002年，Linux系统已经发展了十年了，代码库之大让Linus很难继续通过手工方式管理了，于是Linus选择了一个商业的版本控制系统BitKeeper，BitKeeper的东家BitMover公司出于人道主义精神，授权Linux社区免费使用这个版本控制系统。
-2005年，Linux社区的牛人，开发Samba的Andrew试图破解BitKeeper的协议（这么干的其实也不只他一个），被BitMover公司发现，BitKeeper的免费使用权被收回。
-Linus花了两周时间自己用C写了一个分布式版本控制系统，这就是Git！一个月之内，Linux系统的源码已经由Git管理了！
-2008年，GitHub网站上线了，它为开源项目免费提供Git存储，无数开源项目开始迁移至GitHub，包括jQuery，PHP，Ruby等等。
+Git是一个版本控制系统。
+Git是自由软件。
